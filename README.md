@@ -13,6 +13,7 @@
 - __Doyoon Kim__: [https://dodormitory.tistory.com/](https://dodormitory.tistory.com/)
 - __jihyun Park__: [https://jihyunhillpark.github.io/](https://jihyunhillpark.github.io/)
 - __Sangjin Oh__: [https://osj3474.github.io/](https://osj3474.github.io/)
+- __zoomkoding(Jinhyeok Jeong)__: [https://zoomkoding.github.io/](https://zoomkoding.github.io/)
 
 <br />
 
