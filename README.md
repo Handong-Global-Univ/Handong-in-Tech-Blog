@@ -15,6 +15,7 @@
 - __Sangjin Oh__: [https://osj3474.github.io/](https://osj3474.github.io/)
 - __zoomkoding(Jinhyeok Jeong)__: [https://zoomkoding.github.io/](https://zoomkoding.github.io/)
 - __Jinhyang Kim__: [https://ttuk-ttak.tistory.com/](https://ttuk-ttak.tistory.com/)
+- __유셩장(Sihyung You)__: [https://sihyungyou.github.io/](https://sihyungyou.github.io/)
 
 <br />
 
